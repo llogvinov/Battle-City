@@ -1,0 +1,5751 @@
+fileFormatVersion: 2
+guid: cc3bbc96fe3c5164895b75fc2746be8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2175922346685523792
+    second: battleCitySprites_0
+  - first:
+      213: 7393675493063786990
+    second: battleCitySprites_1
+  - first:
+      213: 1896812582267322639
+    second: battleCitySprites_2
+  - first:
+      213: 4951662512736408107
+    second: battleCitySprites_3
+  - first:
+      213: 7399086793775749900
+    second: battleCitySprites_4
+  - first:
+      213: -142896744605965604
+    second: battleCitySprites_5
+  - first:
+      213: -6365682141781656963
+    second: battleCitySprites_6
+  - first:
+      213: 2557954800932614151
+    second: battleCitySprites_7
+  - first:
+      213: 2551093895245546390
+    second: battleCitySprites_8
+  - first:
+      213: -8221465278972945022
+    second: battleCitySprites_9
+  - first:
+      213: -5543199150776317889
+    second: battleCitySprites_10
+  - first:
+      213: -7751894996792302812
+    second: battleCitySprites_11
+  - first:
+      213: -8658945679417566981
+    second: battleCitySprites_12
+  - first:
+      213: 5119721902125408723
+    second: battleCitySprites_13
+  - first:
+      213: 1869604299847569439
+    second: battleCitySprites_14
+  - first:
+      213: 8188743788173161515
+    second: battleCitySprites_15
+  - first:
+      213: 3813895514283615885
+    second: battleCitySprites_16
+  - first:
+      213: -8708570195408766845
+    second: battleCitySprites_17
+  - first:
+      213: -2127236666801134693
+    second: battleCitySprites_18
+  - first:
+      213: -4022809676524632114
+    second: battleCitySprites_19
+  - first:
+      213: -5357117612778835167
+    second: battleCitySprites_20
+  - first:
+      213: 1455178508868954430
+    second: battleCitySprites_25
+  - first:
+      213: 5822851388144489584
+    second: battleCitySprites_26
+  - first:
+      213: -5812109434335675466
+    second: battleCitySprites_27
+  - first:
+      213: 7002631205294698071
+    second: battleCitySprites_28
+  - first:
+      213: -4247630030254036876
+    second: battleCitySprites_29
+  - first:
+      213: 3656920729724029386
+    second: battleCitySprites_30
+  - first:
+      213: -2734327150365579106
+    second: battleCitySprites_31
+  - first:
+      213: 4722666481859379555
+    second: battleCitySprites_32
+  - first:
+      213: -6619396936610652064
+    second: battleCitySprites_33
+  - first:
+      213: -7214752710850387614
+    second: battleCitySprites_34
+  - first:
+      213: 3999378708224629768
+    second: battleCitySprites_35
+  - first:
+      213: 2092216449295281665
+    second: battleCitySprites_36
+  - first:
+      213: 187332149272369467
+    second: battleCitySprites_37
+  - first:
+      213: 7397874156571102223
+    second: battleCitySprites_38
+  - first:
+      213: -3435403735865499573
+    second: battleCitySprites_39
+  - first:
+      213: 4069290725860020820
+    second: battleCitySprites_40
+  - first:
+      213: 6270332441383753
+    second: battleCitySprites_41
+  - first:
+      213: -1335191713519574341
+    second: battleCitySprites_42
+  - first:
+      213: -2459596263250200163
+    second: battleCitySprites_43
+  - first:
+      213: -437962471235832192
+    second: battleCitySprites_44
+  - first:
+      213: 3699383618889102524
+    second: battleCitySprites_45
+  - first:
+      213: 1100380144542262470
+    second: battleCitySprites_48
+  - first:
+      213: 4929855737061430245
+    second: battleCitySprites_49
+  - first:
+      213: 4626044503341989285
+    second: battleCitySprites_50
+  - first:
+      213: 8086928473954958327
+    second: battleCitySprites_51
+  - first:
+      213: -2703752979869624781
+    second: battleCitySprites_52
+  - first:
+      213: -3934737878207201992
+    second: battleCitySprites_53
+  - first:
+      213: -4246087188552629156
+    second: battleCitySprites_54
+  - first:
+      213: -22431682434168067
+    second: battleCitySprites_55
+  - first:
+      213: 6730096551244174661
+    second: battleCitySprites_56
+  - first:
+      213: -1061595627421605455
+    second: battleCitySprites_57
+  - first:
+      213: -1787778342430741695
+    second: battleCitySprites_58
+  - first:
+      213: 4400184379066692016
+    second: battleCitySprites_59
+  - first:
+      213: 3570003136624300542
+    second: battleCitySprites_60
+  - first:
+      213: -2507480687262363483
+    second: battleCitySprites_61
+  - first:
+      213: 6205016403151938409
+    second: battleCitySprites_62
+  - first:
+      213: -2164563134283047068
+    second: battleCitySprites_63
+  - first:
+      213: 8067181077166933210
+    second: battleCitySprites_64
+  - first:
+      213: -1136812548983636828
+    second: battleCitySprites_65
+  - first:
+      213: 2022562396287063137
+    second: battleCitySprites_66
+  - first:
+      213: 8754864298269539986
+    second: battleCitySprites_67
+  - first:
+      213: -3771476518036274250
+    second: battleCitySprites_68
+  - first:
+      213: 6742470332145154055
+    second: battleCitySprites_69
+  - first:
+      213: 5900085009950318794
+    second: battleCitySprites_70
+  - first:
+      213: 7764929193444985969
+    second: battleCitySprites_73
+  - first:
+      213: -2531794677378286356
+    second: battleCitySprites_74
+  - first:
+      213: 2953617724368226706
+    second: battleCitySprites_75
+  - first:
+      213: -9054420619232957593
+    second: battleCitySprites_76
+  - first:
+      213: -1404265222931857735
+    second: battleCitySprites_77
+  - first:
+      213: 312581947247729323
+    second: battleCitySprites_78
+  - first:
+      213: 5592173893783979505
+    second: battleCitySprites_79
+  - first:
+      213: 420843794814450651
+    second: battleCitySprites_80
+  - first:
+      213: -4317775032878263164
+    second: battleCitySprites_81
+  - first:
+      213: -34427608875399525
+    second: battleCitySprites_82
+  - first:
+      213: 8142732797207183799
+    second: battleCitySprites_83
+  - first:
+      213: 1370103190545555056
+    second: battleCitySprites_84
+  - first:
+      213: -2812908597311244114
+    second: battleCitySprites_85
+  - first:
+      213: -9087080296455935817
+    second: battleCitySprites_86
+  - first:
+      213: -33490936284931971
+    second: battleCitySprites_87
+  - first:
+      213: -3020069804579491828
+    second: battleCitySprites_88
+  - first:
+      213: 8051948716386355407
+    second: battleCitySprites_89
+  - first:
+      213: -3858125039295409650
+    second: battleCitySprites_90
+  - first:
+      213: -1858214497670808360
+    second: battleCitySprites_91
+  - first:
+      213: -2163606521188683105
+    second: battleCitySprites_92
+  - first:
+      213: -9110634066808975907
+    second: battleCitySprites_98
+  - first:
+      213: -5008211814169299488
+    second: battleCitySprites_99
+  - first:
+      213: 5819347237919759137
+    second: battleCitySprites_100
+  - first:
+      213: -2340319801624054487
+    second: battleCitySprites_101
+  - first:
+      213: 7107771964825304821
+    second: battleCitySprites_102
+  - first:
+      213: -3392932695607450169
+    second: battleCitySprites_103
+  - first:
+      213: -2001656556090684993
+    second: battleCitySprites_104
+  - first:
+      213: -6653535040075985158
+    second: battleCitySprites_105
+  - first:
+      213: 8183085324337903630
+    second: battleCitySprites_106
+  - first:
+      213: -4555172369113843365
+    second: battleCitySprites_107
+  - first:
+      213: -502257765503713467
+    second: battleCitySprites_108
+  - first:
+      213: 4261825391802324005
+    second: battleCitySprites_109
+  - first:
+      213: 936435302395880448
+    second: battleCitySprites_110
+  - first:
+      213: 4908153357894024378
+    second: battleCitySprites_111
+  - first:
+      213: 1874007528655121664
+    second: battleCitySprites_112
+  - first:
+      213: -278044790873561744
+    second: battleCitySprites_113
+  - first:
+      213: 5652188388018578317
+    second: battleCitySprites_114
+  - first:
+      213: 1140497098842738067
+    second: battleCitySprites_115
+  - first:
+      213: -4459396448897869962
+    second: battleCitySprites_116
+  - first:
+      213: 6245015260954061223
+    second: battleCitySprites_117
+  - first:
+      213: 999933198059743713
+    second: battleCitySprites_118
+  - first:
+      213: 4930055667041363727
+    second: battleCitySprites_123
+  - first:
+      213: 3328753012032642428
+    second: battleCitySprites_124
+  - first:
+      213: -489711971163997455
+    second: battleCitySprites_125
+  - first:
+      213: -8760679147880828017
+    second: battleCitySprites_126
+  - first:
+      213: 4643429425145147535
+    second: battleCitySprites_127
+  - first:
+      213: -1100161007362997049
+    second: battleCitySprites_128
+  - first:
+      213: 8546437713696468393
+    second: battleCitySprites_129
+  - first:
+      213: -5094921497395718139
+    second: battleCitySprites_130
+  - first:
+      213: -2427717855058822510
+    second: battleCitySprites_131
+  - first:
+      213: -3061547080974122988
+    second: battleCitySprites_132
+  - first:
+      213: 5456748799555867034
+    second: battleCitySprites_133
+  - first:
+      213: -3765662841862343158
+    second: battleCitySprites_134
+  - first:
+      213: 5282857674483492335
+    second: battleCitySprites_135
+  - first:
+      213: 1590501054932894407
+    second: battleCitySprites_136
+  - first:
+      213: 5419059691286880664
+    second: battleCitySprites_137
+  - first:
+      213: 5666597749806006942
+    second: battleCitySprites_138
+  - first:
+      213: 5727086579536481724
+    second: battleCitySprites_139
+  - first:
+      213: -3496230769156215374
+    second: battleCitySprites_140
+  - first:
+      213: -3120054004428326268
+    second: battleCitySprites_141
+  - first:
+      213: -6000014514628976380
+    second: battleCitySprites_142
+  - first:
+      213: 486521761594663623
+    second: battleCitySprites_143
+  - first:
+      213: -2654137133843241192
+    second: battleCitySprites_144
+  - first:
+      213: -6979271872898724712
+    second: battleCitySprites_145
+  - first:
+      213: 4937848222155994736
+    second: battleCitySprites_146
+  - first:
+      213: 3885078519380694465
+    second: battleCitySprites_147
+  - first:
+      213: -5647626614846833921
+    second: battleCitySprites_148
+  - first:
+      213: -1101997582049712158
+    second: battleCitySprites_149
+  - first:
+      213: -513083066972854486
+    second: battleCitySprites_150
+  - first:
+      213: 1174621154944430346
+    second: battleCitySprites_151
+  - first:
+      213: -4098477917520040051
+    second: battleCitySprites_152
+  - first:
+      213: 6163926381837564432
+    second: battleCitySprites_153
+  - first:
+      213: -1457992750618805168
+    second: battleCitySprites_154
+  - first:
+      213: 3230453487321590678
+    second: battleCitySprites_155
+  - first:
+      213: 9195717061527730862
+    second: battleCitySprites_156
+  - first:
+      213: -1057352241052682352
+    second: battleCitySprites_157
+  - first:
+      213: -8838226724618369476
+    second: battleCitySprites_158
+  - first:
+      213: -5968105427134193648
+    second: battleCitySprites_159
+  - first:
+      213: 9114375104275990168
+    second: battleCitySprites_160
+  - first:
+      213: -4592194955601139422
+    second: battleCitySprites_161
+  - first:
+      213: 7244139158319807898
+    second: battleCitySprites_162
+  - first:
+      213: -6356957103248516584
+    second: battleCitySprites_163
+  - first:
+      213: -4053634902271469014
+    second: battleCitySprites_164
+  - first:
+      213: 5621906787289896950
+    second: battleCitySprites_165
+  - first:
+      213: -817785130431542345
+    second: battleCitySprites_166
+  - first:
+      213: -8556160932803626103
+    second: battleCitySprites_167
+  - first:
+      213: -8660717576718047139
+    second: battleCitySprites_168
+  - first:
+      213: -4212821155120014678
+    second: battleCitySprites_169
+  - first:
+      213: 142817846573647492
+    second: battleCitySprites_170
+  - first:
+      213: -5048282420274686309
+    second: battleCitySprites_172
+  - first:
+      213: 104598429651345239
+    second: battleCitySprites_173
+  - first:
+      213: -4971447409594574165
+    second: battleCitySprites_174
+  - first:
+      213: -9161914564353079014
+    second: battleCitySprites_175
+  - first:
+      213: 5435441951874391237
+    second: battleCitySprites_176
+  - first:
+      213: 3211984271175216327
+    second: battleCitySprites_177
+  - first:
+      213: -3759946848782066587
+    second: battleCitySprites_178
+  - first:
+      213: 7216001852911862144
+    second: battleCitySprites_179
+  - first:
+      213: 2853744053660399700
+    second: battleCitySprites_180
+  - first:
+      213: 6057122585960333621
+    second: battleCitySprites_181
+  - first:
+      213: -2935764890923008971
+    second: battleCitySprites_182
+  - first:
+      213: 4375744313344941005
+    second: battleCitySprites_183
+  - first:
+      213: -6159281319698645397
+    second: battleCitySprites_184
+  - first:
+      213: -5148142800023388392
+    second: battleCitySprites_185
+  - first:
+      213: 8517637335681400381
+    second: battleCitySprites_186
+  - first:
+      213: 4252649100989441624
+    second: battleCitySprites_187
+  - first:
+      213: -2540695516689915353
+    second: battleCitySprites_188
+  - first:
+      213: 5186920191232215991
+    second: battleCitySprites_189
+  - first:
+      213: 7055749429872566929
+    second: battleCitySprites_190
+  - first:
+      213: -3306889656616091826
+    second: battleCitySprites_191
+  - first:
+      213: -7380821357136317499
+    second: battleCitySprites_192
+  - first:
+      213: -6779838409394896929
+    second: battleCitySprites_193
+  - first:
+      213: 3519152497634462962
+    second: battleCitySprites_194
+  - first:
+      213: 8954573857723975866
+    second: battleCitySprites_195
+  - first:
+      213: -4471021762410814129
+    second: battleCitySprites_196
+  - first:
+      213: 2788503724509653120
+    second: battleCitySprites_197
+  - first:
+      213: 8497881062665701614
+    second: battleCitySprites_198
+  - first:
+      213: 7061663863618909864
+    second: battleCitySprites_199
+  - first:
+      213: -3502988133683299034
+    second: battleCitySprites_200
+  - first:
+      213: 5194746045470125677
+    second: battleCitySprites_201
+  - first:
+      213: 262540060896713959
+    second: battleCitySprites_202
+  - first:
+      213: -3478538886362576150
+    second: battleCitySprites_203
+  - first:
+      213: -2799737249092063017
+    second: battleCitySprites_204
+  - first:
+      213: 2155694682171406099
+    second: battleCitySprites_205
+  - first:
+      213: -8336266321548261997
+    second: battleCitySprites_206
+  - first:
+      213: 4516542501640002472
+    second: battleCitySprites_207
+  - first:
+      213: -2708730289546015079
+    second: battleCitySprites_208
+  - first:
+      213: -5115848643561038708
+    second: battleCitySprites_209
+  - first:
+      213: 7774904913569558834
+    second: battleCitySprites_210
+  - first:
+      213: 5330065616143407007
+    second: battleCitySprites_211
+  - first:
+      213: -4920050446176076792
+    second: battleCitySprites_212
+  - first:
+      213: -331220984308000321
+    second: battleCitySprites_213
+  - first:
+      213: -7341202061223695148
+    second: battleCitySprites_214
+  - first:
+      213: -8870297232629105907
+    second: battleCitySprites_215
+  - first:
+      213: -1819122133972651058
+    second: battleCitySprites_216
+  - first:
+      213: -7959805357717816645
+    second: battleCitySprites_217
+  - first:
+      213: 4669903191850045182
+    second: battleCitySprites_218
+  - first:
+      213: 1382151147813950431
+    second: battleCitySprites_224
+  - first:
+      213: 5102709707845038770
+    second: battleCitySprites_225
+  - first:
+      213: -2587649216295152087
+    second: battleCitySprites_226
+  - first:
+      213: -4509757601502253203
+    second: battleCitySprites_227
+  - first:
+      213: 8383004256800305725
+    second: battleCitySprites_228
+  - first:
+      213: 8242826030392110126
+    second: battleCitySprites_229
+  - first:
+      213: 2592129824636377762
+    second: battleCitySprites_230
+  - first:
+      213: 2489218991558665718
+    second: battleCitySprites_231
+  - first:
+      213: -7221580625581718903
+    second: battleCitySprites_232
+  - first:
+      213: -4663919909139829080
+    second: battleCitySprites_233
+  - first:
+      213: -2099307397125850167
+    second: battleCitySprites_234
+  - first:
+      213: 4239106043410466319
+    second: battleCitySprites_235
+  - first:
+      213: -6761577750264083767
+    second: battleCitySprites_236
+  - first:
+      213: 5148577320018807058
+    second: battleCitySprites_237
+  - first:
+      213: -412953790617699762
+    second: battleCitySprites_238
+  - first:
+      213: 1914864470349590169
+    second: battleCitySprites_239
+  - first:
+      213: 2418075689118610948
+    second: battleCitySprites_240
+  - first:
+      213: 6808684364418795439
+    second: battleCitySprites_241
+  - first:
+      213: -4828047964966455292
+    second: battleCitySprites_242
+  - first:
+      213: 8239565457915804728
+    second: battleCitySprites_243
+  - first:
+      213: -212924980453195778
+    second: battleCitySprites_245
+  - first:
+      213: -6636159137170514274
+    second: battleCitySprites_247
+  - first:
+      213: 5456048384250366399
+    second: battleCitySprites_250
+  - first:
+      213: 2743235149949640317
+    second: battleCitySprites_251
+  - first:
+      213: 8540032011781383558
+    second: battleCitySprites_252
+  - first:
+      213: 4518040372051493484
+    second: battleCitySprites_253
+  - first:
+      213: -9200934092466705917
+    second: battleCitySprites_254
+  - first:
+      213: 342621616248286236
+    second: battleCitySprites_255
+  - first:
+      213: 2274669632380746854
+    second: battleCitySprites_256
+  - first:
+      213: 2001771863426643276
+    second: battleCitySprites_257
+  - first:
+      213: -1408752245985134835
+    second: battleCitySprites_258
+  - first:
+      213: 5788483396253761803
+    second: battleCitySprites_259
+  - first:
+      213: -54393541175795526
+    second: battleCitySprites_260
+  - first:
+      213: 7539358570975904881
+    second: battleCitySprites_261
+  - first:
+      213: 8108156520740436176
+    second: battleCitySprites_262
+  - first:
+      213: 8777770946673046462
+    second: battleCitySprites_263
+  - first:
+      213: -1110506863057466402
+    second: battleCitySprites_264
+  - first:
+      213: -2862769591104192281
+    second: battleCitySprites_265
+  - first:
+      213: -6874043738196650043
+    second: battleCitySprites_268
+  - first:
+      213: -4491792371046278356
+    second: battleCitySprites_269
+  - first:
+      213: 1688211827394010473
+    second: battleCitySprites_270
+  - first:
+      213: -8187662850773480252
+    second: battleCitySprites_271
+  - first:
+      213: -7230288473171845959
+    second: battleCitySprites_272
+  - first:
+      213: -6873280795304579295
+    second: battleCitySprites_274
+  - first:
+      213: -611002799082423290
+    second: battleCitySprites_275
+  - first:
+      213: -603543041424030950
+    second: battleCitySprites_276
+  - first:
+      213: 503200177168801619
+    second: battleCitySprites_277
+  - first:
+      213: -52757707065242991
+    second: battleCitySprites_278
+  - first:
+      213: -2305831322741805126
+    second: battleCitySprites_279
+  - first:
+      213: 79412623132677178
+    second: battleCitySprites_280
+  - first:
+      213: -985153614864957730
+    second: battleCitySprites_281
+  - first:
+      213: 8700285531588369999
+    second: battleCitySprites_282
+  - first:
+      213: 593754842810358722
+    second: battleCitySprites_283
+  - first:
+      213: -5366465321629398868
+    second: battleCitySprites_284
+  - first:
+      213: -8122971458433265888
+    second: battleCitySprites_285
+  - first:
+      213: 5853032268023716909
+    second: battleCitySprites_286
+  - first:
+      213: -5248908121269827852
+    second: battleCitySprites_287
+  - first:
+      213: -6918282962641198539
+    second: battleCitySprites_288
+  - first:
+      213: -3961851592381123296
+    second: battleCitySprites_289
+  - first:
+      213: 6361968362251200049
+    second: battleCitySprites_290
+  - first:
+      213: 2212925457960865492
+    second: battleCitySprites_293
+  - first:
+      213: -7528348111721209943
+    second: battleCitySprites_294
+  - first:
+      213: -8755235949360146120
+    second: battleCitySprites_298
+  - first:
+      213: -6464352200175293289
+    second: battleCitySprites_299
+  - first:
+      213: -3552148309092698710
+    second: battleCitySprites_300
+  - first:
+      213: -1793366182910294122
+    second: battleCitySprites_301
+  - first:
+      213: 5738331065323468129
+    second: battleCitySprites_302
+  - first:
+      213: 3416732380384794446
+    second: battleCitySprites_303
+  - first:
+      213: -8999084100561440632
+    second: battleCitySprites_304
+  - first:
+      213: 5063828397956406171
+    second: battleCitySprites_305
+  - first:
+      213: 7198594133210287275
+    second: battleCitySprites_306
+  - first:
+      213: 6940803735993849505
+    second: battleCitySprites_307
+  - first:
+      213: -4043854477796250392
+    second: battleCitySprites_308
+  - first:
+      213: 352117351947640740
+    second: battleCitySprites_309
+  - first:
+      213: -3109089172161641846
+    second: battleCitySprites_310
+  - first:
+      213: 4042994582222625564
+    second: battleCitySprites_311
+  - first:
+      213: -7636003305726625466
+    second: battleCitySprites_312
+  - first:
+      213: 6445765102210102668
+    second: battleCitySprites_313
+  - first:
+      213: 8255264168059665490
+    second: battleCitySprites_314
+  - first:
+      213: 4884152519378037685
+    second: battleCitySprites_315
+  - first:
+      213: -3441099454868905138
+    second: battleCitySprites_318
+  - first:
+      213: -5442071896055257078
+    second: battleCitySprites_325
+  - first:
+      213: -5909621767624673579
+    second: battleCitySprites_326
+  - first:
+      213: -3800124675218618284
+    second: battleCitySprites_327
+  - first:
+      213: -7405622278074323799
+    second: battleCitySprites_328
+  - first:
+      213: 3945534007691643444
+    second: battleCitySprites_329
+  - first:
+      213: 6721207588654539404
+    second: battleCitySprites_330
+  - first:
+      213: 3504755066649434199
+    second: battleCitySprites_331
+  - first:
+      213: 5294388674994065088
+    second: battleCitySprites_332
+  - first:
+      213: 1387950543348879895
+    second: battleCitySprites_333
+  - first:
+      213: 1072007972885202835
+    second: battleCitySprites_334
+  - first:
+      213: -2624044083284263408
+    second: battleCitySprites_335
+  - first:
+      213: -3424249621077060924
+    second: battleCitySprites_336
+  - first:
+      213: -3313218361579717936
+    second: battleCitySprites_337
+  - first:
+      213: -1088639328083463143
+    second: battleCitySprites_338
+  - first:
+      213: 7640070603977262978
+    second: battleCitySprites_339
+  - first:
+      213: 2765425776283921452
+    second: battleCitySprites_340
+  - first:
+      213: -5641415779000673305
+    second: battleCitySprites_350
+  - first:
+      213: -684418407893671714
+    second: battleCitySprites_351
+  - first:
+      213: 2970552048914577035
+    second: battleCitySprites_352
+  - first:
+      213: 5481585030953685810
+    second: battleCitySprites_353
+  - first:
+      213: 9146245924578650889
+    second: battleCitySprites_354
+  - first:
+      213: -8450664909720472266
+    second: battleCitySprites_355
+  - first:
+      213: 9167365016034383501
+    second: battleCitySprites_356
+  - first:
+      213: -443531904347618727
+    second: battleCitySprites_357
+  - first:
+      213: -7454775359347298892
+    second: battleCitySprites_358
+  - first:
+      213: -1899233023828742893
+    second: battleCitySprites_359
+  - first:
+      213: -4113744338017552786
+    second: battleCitySprites_360
+  - first:
+      213: -4150002770445304713
+    second: battleCitySprites_361
+  - first:
+      213: 4847906476098006304
+    second: battleCitySprites_362
+  - first:
+      213: 7929777083381398806
+    second: battleCitySprites_363
+  - first:
+      213: -3066158025559679003
+    second: battleCitySprites_364
+  - first:
+      213: -8937315333578847185
+    second: battleCitySprites_365
+  - first:
+      213: 2684632370794414934
+    second: battleCitySprites_374
+  - first:
+      213: 8131586867354321527
+    second: battleCitySprites_375
+  - first:
+      213: -7266966359739653092
+    second: battleCitySprites_376
+  - first:
+      213: -6570008587702314866
+    second: battleCitySprites_377
+  - first:
+      213: -5173701217371439898
+    second: battleCitySprites_378
+  - first:
+      213: 3889019986194219343
+    second: battleCitySprites_379
+  - first:
+      213: 1312271885192888423
+    second: battleCitySprites_380
+  - first:
+      213: -8775295305875578125
+    second: battleCitySprites_381
+  - first:
+      213: -7996249945438256139
+    second: battleCitySprites_382
+  - first:
+      213: 8450230385298501336
+    second: battleCitySprites_383
+  - first:
+      213: -6830862758126538991
+    second: battleCitySprites_384
+  - first:
+      213: 6131250015834303454
+    second: battleCitySprites_385
+  - first:
+      213: 5710199799811279382
+    second: battleCitySprites_386
+  - first:
+      213: -5608288879624043322
+    second: battleCitySprites_387
+  - first:
+      213: -8534931605607658179
+    second: battleCitySprites_388
+  - first:
+      213: -8760476870859219613
+    second: battleCitySprites_389
+  - first:
+      213: 9116305161957050518
+    second: battleCitySprites_390
+  - first:
+      213: -6614452454362071946
+    second: battleCitySprites_399
+  - first:
+      213: -6086423096370398994
+    second: battleCitySprites_21
+  - first:
+      213: -8445611901849518770
+    second: battleCitySprites_22
+  - first:
+      213: -5429350140641949351
+    second: battleCitySprites_23
+  - first:
+      213: -7978648062723634007
+    second: battleCitySprites_24
+  - first:
+      213: -113841491735024542
+    second: battleCitySprites_46
+  - first:
+      213: -7129864918405902380
+    second: battleCitySprites_47
+  - first:
+      213: -3055033334206717003
+    second: battleCitySprites_71
+  - first:
+      213: 3072996580988410126
+    second: battleCitySprites_72
+  - first:
+      213: 2558056140751847890
+    second: battleCitySprites_93
+  - first:
+      213: -7677586115317300913
+    second: battleCitySprites_94
+  - first:
+      213: -7996379034179274313
+    second: battleCitySprites_95
+  - first:
+      213: -2512272007957219445
+    second: battleCitySprites_96
+  - first:
+      213: -1101724507112541254
+    second: battleCitySprites_97
+  - first:
+      213: 332959510259702846
+    second: battleCitySprites_119
+  - first:
+      213: -6197888039255071117
+    second: battleCitySprites_120
+  - first:
+      213: -8691846074138897939
+    second: battleCitySprites_121
+  - first:
+      213: 7851365763039147322
+    second: battleCitySprites_122
+  - first:
+      213: -947582412636996437
+    second: battleCitySprites_171
+  - first:
+      213: 5880774373154317354
+    second: battleCitySprites_219
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: battleCitySprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057660588dd623e10800000000000000
+      internalID: 2175922346685523792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1049400bc9b9660800000000000000
+      internalID: 7393675493063786990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01098b6ef4d25a10800000000000000
+      internalID: 1896812582267322639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22954ff1d6d7b440800000000000000
+      internalID: 4951662512736408107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b9945ac36dea660800000000000000
+      internalID: 7399086793775749900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2a33afa24540ef0800000000000000
+      internalID: -142896744605965604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a7e02a1dd88a7a0800000000000000
+      internalID: -6365682141781656963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 242
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700f71db65eaf7320800000000000000
+      internalID: 2557954800932614151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69347c6a16e476320800000000000000
+      internalID: 2551093895245546390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d1c9153ec77ed80800000000000000
+      internalID: -8221465278972945022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f380bb2ddb99213b0800000000000000
+      internalID: -5543199150776317889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423211c529cbb6490800000000000000
+      internalID: -7751894996792302812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf899e818ce35d780800000000000000
+      internalID: -8658945679417566981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1e8fcc1f7ec0740800000000000000
+      internalID: 5119721902125408723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1015f2843b22f910800000000000000
+      internalID: 1869604299847569439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b247fbae61344a170800000000000000
+      internalID: 8188743788173161515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86a45b63cdade430800000000000000
+      internalID: 3813895514283615885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 240
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3883b191c81f42780800000000000000
+      internalID: -8708570195408766845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93e12aa5898a72e0800000000000000
+      internalID: -2127236666801134693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 240
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7ceb7b9eb1c28c0800000000000000
+      internalID: -4022809676524632114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 248
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12334561ae1b7a5b0800000000000000
+      internalID: -5357117612778835167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 224
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0606306ae8d2324a0800000000000000
+      internalID: -6619396936610652064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 224
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e97782ac00eb90800000000000000
+      internalID: -7214752710850387614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c5df9deb5a08730800000000000000
+      internalID: 3999378708224629768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e697d86cb090d10800000000000000
+      internalID: 2092216449295281665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39d364e899899200800000000000000
+      internalID: 187332149272369467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c867b89578aa660800000000000000
+      internalID: 7397874156571102223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40efa7f08ef250d0800000000000000
+      internalID: -3435403735865499573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4529daaea56097830800000000000000
+      internalID: 4069290725860020820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943dac985d6461000800000000000000
+      internalID: 6270332441383753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 224
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2ee90f532787de0800000000000000
+      internalID: -1335191713519574341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99f716ea32cdddd0800000000000000
+      internalID: -2459596263250200163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 224
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086390de37b0ce9f0800000000000000
+      internalID: -437962471235832192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 232
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4b8cb1dc9d65330800000000000000
+      internalID: 3699383618889102524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_48
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 152
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4a55159e5554f00800000000000000
+      internalID: 1100380144542262470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 209
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b6742d1198037e0800000000000000
+      internalID: -1787778342430741695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 209
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b13e7c2168901d30800000000000000
+      internalID: 4400184379066692016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1958520f23b8130800000000000000
+      internalID: 3570003136624300542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_61
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a01392a993a33dd0800000000000000
+      internalID: -2507480687262363483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963e7570b85ac1650800000000000000
+      internalID: 6205016403151938409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f17273c4de5f1e0800000000000000
+      internalID: -2164563134283047068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4c94ba27264ff60800000000000000
+      internalID: 8067181077166933210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acbf91820b3930f0800000000000000
+      internalID: -1136812548983636828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164d0ce88c5911c10800000000000000
+      internalID: 2022562396287063137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_67
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29efa1ba1b68f7970800000000000000
+      internalID: 8754864298269539986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b388b7c61609abc0800000000000000
+      internalID: -3771476518036274250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_69
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7083f104b01129d50800000000000000
+      internalID: 6742470332145154055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac022ba7e0051e150800000000000000
+      internalID: 5900085009950318794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b10576465cc00170800000000000000
+      internalID: 8142732797207183799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ed81ab795930310800000000000000
+      internalID: 1370103190545555056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8fe9fb88a86f8d0800000000000000
+      internalID: -2812908597311244114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8ea44ad9434e180800000000000000
+      internalID: -9087080296455935817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d789a8fbb24098ff0800000000000000
+      internalID: -33490936284931971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00f725838e8616d0800000000000000
+      internalID: -3020069804579491828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc80fdd42b44ebf60800000000000000
+      internalID: 8051948716386355407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02d1cdc7bf257ac0800000000000000
+      internalID: -3858125039295409650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcb9d572cb4636e0800000000000000
+      internalID: -1858214497670808360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_92
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9274de055359f1e0800000000000000
+      internalID: -2163606521188683105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f387d293f9709f0800000000000000
+      internalID: -502257765503713467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5241e1d1d9b052b30800000000000000
+      internalID: 4261825391802324005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004217232f2eefc00800000000000000
+      internalID: 936435302395880448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_111
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcf96879734d1440800000000000000
+      internalID: 4908153357894024378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d65eb1befc10a10800000000000000
+      internalID: 1874007528655121664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_113
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07565506cbf242cf0800000000000000
+      internalID: -278044790873561744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_114
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d836f6f646b907e40800000000000000
+      internalID: 5652188388018578317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_115
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d82eb911cd3df00800000000000000
+      internalID: 1140497098842738067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677ddce7e8a0d12c0800000000000000
+      internalID: -4459396448897869962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_117
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a96f06da40caa650800000000000000
+      internalID: 6245015260954061223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 188
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9a87d12f970ed00800000000000000
+      internalID: 999933198059743713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9111124f144abb40800000000000000
+      internalID: 5456748799555867034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_134
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0638eeb89dadbbc0800000000000000
+      internalID: -3765662841862343158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5e88ea01b705940800000000000000
+      internalID: 5282857674483492335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_136
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2c82a5848921610800000000000000
+      internalID: 1590501054932894407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_137
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891eacbe31e543b40800000000000000
+      internalID: 5419059691286880664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_138
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92073a61acc3ae40800000000000000
+      internalID: 5666597749806006942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_139
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdcd2396e2ba7f40800000000000000
+      internalID: 5727086579536481724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_140
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd27a7a3a4ea7fc0800000000000000
+      internalID: -3496230769156215374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_141
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 168
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ab30ae96753b4d0800000000000000
+      internalID: -3120054004428326268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_142
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4012a50a69aabbca0800000000000000
+      internalID: -6000014514628976380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2e857e6f870c600800000000000000
+      internalID: 486521761594663623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_144
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 176
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817a918c65c9a2bd0800000000000000
+      internalID: -2654137133843241192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_145
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 184
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c0ff89535a42f90800000000000000
+      internalID: -6979271872898724712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_146
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 184
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076f664dbc2c68440800000000000000
+      internalID: 4937848222155994736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_147
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 184
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5df2054529ae530800000000000000
+      internalID: 3885078519380694465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3602c2fe9f485580800000000000000
+      internalID: -8838226724618369476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010e5910cb70d2da0800000000000000
+      internalID: -5968105427134193648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_160
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896c8080ed3cc7e70800000000000000
+      internalID: 9114375104275990168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_161
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229ad04b40f3540c0800000000000000
+      internalID: -4592194955601139422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d3623fe2a588460800000000000000
+      internalID: 7244139158319807898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_163
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ad978f13d87c7a0800000000000000
+      internalID: -6356957103248516584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_164
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2adbf098889eb7c0800000000000000
+      internalID: -4053634902271469014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f795c8df66050e40800000000000000
+      internalID: 5621906787289896950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb0806b1c4a6a4f0800000000000000
+      internalID: -817785130431542345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_167
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b3a2fc6f8624980800000000000000
+      internalID: -8556160932803626103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_168
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d582dbb1043fec780800000000000000
+      internalID: -8660717576718047139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_169
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa12dada7d0985c0800000000000000
+      internalID: -4212821155120014678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_170
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 150
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486cb9423146bf100800000000000000
+      internalID: 142817846573647492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_172
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b969dadb2e5e0f9b0800000000000000
+      internalID: -5048282420274686309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_183
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb5cd0f444c9bc30800000000000000
+      internalID: 4375744313344941005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_184
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb9a3e546d58aa0800000000000000
+      internalID: -6159281319698645397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_185
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ffe9f366f1e88b0800000000000000
+      internalID: -5148142800023388392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_186
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ef4e6470ab43670800000000000000
+      internalID: 8517637335681400381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_187
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8562cda63d1740b30800000000000000
+      internalID: 4252649100989441624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_188
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722254583e2adbcd0800000000000000
+      internalID: -2540695516689915353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_189
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb82b4be64abf740800000000000000
+      internalID: 5186920191232215991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_190
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19228b739be0be160800000000000000
+      internalID: 7055749429872566929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_191
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ffbf1c0619b12d0800000000000000
+      internalID: -3306889656616091826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_192
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3f549b41e029990800000000000000
+      internalID: -7380821357136317499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_193
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfb77543ec29e1a0800000000000000
+      internalID: -6779838409394896929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_194
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc4ee32d8a86d030800000000000000
+      internalID: 3519152497634462962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_195
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab803a0fa79054c70800000000000000
+      internalID: 8954573857723975866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_196
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f456674456db3f1c0800000000000000
+      internalID: -4471021762410814129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_197
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08860420d51c2b620800000000000000
+      internalID: 2788503724509653120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ec4433728a86ad0800000000000000
+      internalID: -2708730289546015079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_209
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c51eb73cad009b0800000000000000
+      internalID: -5115848643561038708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_210
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231b0cf53d206eb60800000000000000
+      internalID: 7774904913569558834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_211
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9750cf107238f940800000000000000
+      internalID: 5330065616143407007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c3caecf2878bbb0800000000000000
+      internalID: -4920050446176076792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_213
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb99a280544476bf0800000000000000
+      internalID: -331220984308000321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_214
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc6564ee9fce1a90800000000000000
+      internalID: -7341202061223695148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_215
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bf20de9af56e480800000000000000
+      internalID: -8870297232629105907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_216
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec37289ae0e21c6e0800000000000000
+      internalID: -1819122133972651058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_217
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba7af33337198190800000000000000
+      internalID: -7959805357717816645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_218
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe4fa5f534dec040800000000000000
+      internalID: 4669903191850045182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_224
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 112
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3595f55236e2310800000000000000
+      internalID: 1382151147813950431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_233
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae29da9d8d664fb0800000000000000
+      internalID: -4663919909139829080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_234
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbb6ff7b03cdd2e0800000000000000
+      internalID: -2099307397125850167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_235
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0641ba9c7454da30800000000000000
+      internalID: 4239106043410466319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_236
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca035a4cdc0a22a0800000000000000
+      internalID: -6761577750264083767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_237
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2198a525bcb637740800000000000000
+      internalID: 5148577320018807058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_238
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ab49127b4e44af0800000000000000
+      internalID: -412953790617699762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_239
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e24342717f29a10800000000000000
+      internalID: 1914864470349590169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_240
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4063ce9170bbe8120800000000000000
+      internalID: 2418075689118610948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_241
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa740f00b5e4d7e50800000000000000
+      internalID: 6808684364418795439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_242
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40870a9b4f35ffcb0800000000000000
+      internalID: -4828047964966455292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_243
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c76aef021d85270800000000000000
+      internalID: 8239565457915804728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_245
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effb740cbd98b0df0800000000000000
+      internalID: -212924980453195778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_247
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e1df3bc60a7e3a0800000000000000
+      internalID: -6636159137170514274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_258
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07b581db4b137ce0800000000000000
+      internalID: -1408752245985134835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_259
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01c3fdeaf2d45050800000000000000
+      internalID: 5788483396253761803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_260
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0242ccc51ce3ff0800000000000000
+      internalID: -54393541175795526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_261
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174c051dcae21a860800000000000000
+      internalID: 7539358570975904881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_262
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d830029565f58070800000000000000
+      internalID: 8108156520740436176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_263
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3f03c5b28e0d970800000000000000
+      internalID: 8777770946673046462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_264
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb83da44efa690f0800000000000000
+      internalID: -1110506863057466402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_265
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0c17879366548d0800000000000000
+      internalID: -2862769591104192281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_268
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c75a4ee3ad7a90a0800000000000000
+      internalID: -6874043738196650043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_269
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b1af613a2f9a1c0800000000000000
+      internalID: -4491792371046278356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_270
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dde6566bbbd6710800000000000000
+      internalID: 1688211827394010473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_271
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc0cfe64049f5e80800000000000000
+      internalID: -8187662850773480252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_272
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc9dfcf0fad8ab90800000000000000
+      internalID: -7230288473171845959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_274
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 88
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f2b5a68833d90a0800000000000000
+      internalID: -6873280795304579295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_283
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb116932e07d3800800000000000000
+      internalID: 593754842810358722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_284
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8c3d4093c7685b0800000000000000
+      internalID: -5366465321629398868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_285
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fc273fe78654f80800000000000000
+      internalID: -8122971458433265888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_286
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cd37a46d52a3150800000000000000
+      internalID: 5853032268023716909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_287
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f68c05afd12827b0800000000000000
+      internalID: -5248908121269827852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_288
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5326224dc425dff90800000000000000
+      internalID: -6918282962641198539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_289
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025be4fa7fca409c0800000000000000
+      internalID: -3961851592381123296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_290
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a140b4804a4850800000000000000
+      internalID: 6361968362251200049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_293
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de0d2cbaf3e5be10800000000000000
+      internalID: 2212925457960865492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_294
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 56
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afdf5f774fe58790800000000000000
+      internalID: -7528348111721209943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_298
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83998a19a472f7680800000000000000
+      internalID: -8755235949360146120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_299
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c698d6ce10a46a0800000000000000
+      internalID: -6464352200175293289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_308
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ece49717c751e7c0800000000000000
+      internalID: -4043854477796250392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_309
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af1712bdd8f2e400800000000000000
+      internalID: 352117351947640740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_310
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82ca4ededb4ad4d0800000000000000
+      internalID: -3109089172161641846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_311
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b553ed62a9b1830800000000000000
+      internalID: 4042994582222625564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_312
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649b4726377770690800000000000000
+      internalID: -7636003305726625466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_313
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85b7d69535f37950800000000000000
+      internalID: 6445765102210102668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_314
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cf438c507909270800000000000000
+      internalID: 8255264168059665490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_315
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb6b5ac6def7c340800000000000000
+      internalID: 4884152519378037685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_318
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43afbb0742ce30d0800000000000000
+      internalID: -3441099454868905138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_333
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712de1e5aadf24310800000000000000
+      internalID: 1387950543348879895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_334
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3978534529980ee00800000000000000
+      internalID: 1072007972885202835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_335
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e30ec1fc5859bd0800000000000000
+      internalID: -2624044083284263408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_336
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c29f61bc1f9a70d0800000000000000
+      internalID: -3424249621077060924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_337
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da3dbe44751502d0800000000000000
+      internalID: -3313218361579717936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_338
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b0198c4064e0f0800000000000000
+      internalID: -1088639328083463143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_339
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28708f84cbbf60a60800000000000000
+      internalID: 7640070603977262978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_340
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cac187714c06620800000000000000
+      internalID: 2765425776283921452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_358
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bde4c9ce415b8890800000000000000
+      internalID: -7454775359347298892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_359
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d2ffc90a194a5e0800000000000000
+      internalID: -1899233023828742893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_360
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6670b3f15b09e6c0800000000000000
+      internalID: -4113744338017552786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_361
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c78bac77a3866c0800000000000000
+      internalID: -4150002770445304713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_362
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d23243149374340800000000000000
+      internalID: 4847906476098006304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_363
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d3bfa5e3a3c0e60800000000000000
+      internalID: 7929777083381398806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_364
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef5d4d5581d275d0800000000000000
+      internalID: -3066158025559679003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_365
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c81685e0748f380800000000000000
+      internalID: -8937315333578847185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_374
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65347bddaeab14520800000000000000
+      internalID: 2684632370794414934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_383
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deede1a3cf354570800000000000000
+      internalID: 8450230385298501336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_384
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f2c605386e331a0800000000000000
+      internalID: -6830862758126538991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_385
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb69e69763961550800000000000000
+      internalID: 6131250015834303454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_386
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a0248c674be3f40800000000000000
+      internalID: 5710199799811279382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_387
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c44c3c5afa5b22b0800000000000000
+      internalID: -5608288879624043322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_388
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d4089bce4dd8980800000000000000
+      internalID: -8534931605607658179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_389
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d196173b88c6680800000000000000
+      internalID: -8760476870859219613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_390
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698828a9e3f938e70800000000000000
+      internalID: 9116305161957050518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_399
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cb902a98eb434a0800000000000000
+      internalID: -6614452454362071946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 151
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8fb1ce07ea88ba0800000000000000
+      internalID: -6086423096370398994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 150
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4db277d8b82bca80800000000000000
+      internalID: -8445611901849518770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 151
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959c1d120d217a4b0800000000000000
+      internalID: -5429350140641949351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 72
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9accf711cd5264190800000000000000
+      internalID: -7978648062723634007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_46
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cee6434cd8b6ef0800000000000000
+      internalID: -113841491735024542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df85e1e1a1ad0d90800000000000000
+      internalID: -7129864918405902380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_71
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3a1a96e575a95d0800000000000000
+      internalID: -3055033334206717003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_72
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09ddc5eb1a75aa20800000000000000
+      internalID: 3072996580988410126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d14501c18a008320800000000000000
+      internalID: 2558056140751847890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_94
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f418a001b1cb37590800000000000000
+      internalID: -7677586115317300913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_95
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9fc5292a7270190800000000000000
+      internalID: -7996379034179274313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_96
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b877d8a5bed922dd0800000000000000
+      internalID: -2512272007957219445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_97
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3f631e563e5b0f0800000000000000
+      internalID: -1101724507112541254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_119
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c1e9519e8ee9400800000000000000
+      internalID: 332959510259702846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_120
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3762f868aadacf9a0800000000000000
+      internalID: -6197888039255071117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_121
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 80
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1d3940c0c506780800000000000000
+      internalID: -8691846074138897939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_122
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35bc9b2097a5fc60800000000000000
+      internalID: 7851365763039147322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_171
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac3d53f0d289d2f0800000000000000
+      internalID: -947582412636996437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleCitySprites_219
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24651c7225bc9150800000000000000
+      internalID: 5880774373154317354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
